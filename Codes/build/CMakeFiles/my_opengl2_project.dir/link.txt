@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/my_opengl2_project.dir/src/Construction4.cpp.o  -o my_opengl2_project  -lglfw -lglut -lGLU /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so 

@@ -1,0 +1,3 @@
+/home/ubuntu2/Desktop/Projects/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu2/Desktop/Projects/build/CMakeFiles/edit_cache.dir
+/home/ubuntu2/Desktop/Projects/build/CMakeFiles/my_opengl2_project.dir

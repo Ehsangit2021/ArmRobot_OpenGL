@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu2/Desktop/Projects/src/glad.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+glad.h
+/home/ubuntu2/Desktop/Projects/src/glad.h
+windows.h
+-
+winapifamily.h
+-
+dlfcn.h
+-
+
+/home/ubuntu2/Desktop/Projects/src/glad.h
+KHR/khrplatform.h
+-
+

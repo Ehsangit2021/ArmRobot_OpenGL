@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu2/Desktop/Projects/src/Construction4.cpp
+GL/glut.h
+-
+GL/glu.h
+-
+iostream
+-
+cmath
+-
+

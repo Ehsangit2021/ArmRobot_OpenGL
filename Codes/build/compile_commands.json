@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ubuntu2/Desktop/Projects/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/my_opengl2_project.dir/src/Construction4.cpp.o -c /home/ubuntu2/Desktop/Projects/src/Construction4.cpp",
+  "file": "/home/ubuntu2/Desktop/Projects/src/Construction4.cpp"
+}
+]
